@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/30516757/183808225-8a61b061-d308-4781-bcb7-794dcbd2a397.png)
 User Name	User ID	PC Name	Department
 User 1	12345678	L123456789	Department 1
 User 2	12345678	L123456790	Department 2
